@@ -1,3 +1,9 @@
+# PUBLIC URL
+- [https://6688de6420d064fa5f409daf--cozy-frangipane-0e37c2.netlify.app/]
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
